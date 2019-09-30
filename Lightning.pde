@@ -23,12 +23,6 @@ void draw()
       startX = endX;
       startY = endY;
     }
-  //} else {
-    //startX = 0;
-    //startY = 150;
-    //background(0);
-  //}
-
 }
 
 void mousePressed()
